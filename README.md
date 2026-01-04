@@ -87,13 +87,6 @@ React · Next.js · TypeScript · Node.js
 
 ---
 
-## GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAChapurin&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAChapurin&layout=compact)
-
----
-
 ## Контакты
 
 GitHub: https://github.com/MAChapurin  
