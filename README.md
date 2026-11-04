@@ -7,9 +7,7 @@ React · Next.js · TypeScript · Node.js
 
 ## О себе
 
-Разрабатываю пользовательские интерфейсы и знаком с базовой серверной логикой.  
-Работал с REST API и базами данных.  
-Стараюсь писать читаемый код и использовать современные подходы.
+Разрабатываю современные веб-приложения — от проектирования интерфейсов до серверной логики и развёртывания на production.
 
 ---
 
@@ -52,13 +50,14 @@ React · Next.js · TypeScript · Node.js
 ---
 
 ## Проекты
-
-- [smp3d.ru](https://smp3d.ru/) — коммерческий сайт мастерской 3D-печати 
+- [rgs-bg.ru](https://rgs-bg.ru/) - сайт финансовых решений для бизнеса
+- [kvideo.pro](https://kvideo.pro/) - сайт продюссера
+- [smp3d.ru](https://smp3d.ru/) — сайт мастерской 3D-печати 
 - [4ad-royalty](https://4ad-royalty.vercel.app/) — лендинг
 - [quiz-builder](https://github.com/MAChapurin/quiz-builder) — конструктор квизов 
+- [sarafanfan.com](https://sarafanfan.com/) - конмандный проект маркетплэйса
 - [shope](https://github.com/MAChapurin/shope) — тренировочный интернет-магазин  
 - [preax-weather-app](https://github.com/MAChapurin/preax-weather-app) — приложение прогноза погоды
-- [career-app](https://github.com/MAChapurin/career-app) — учебный проект
 
 ---
 
