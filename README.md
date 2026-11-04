@@ -54,7 +54,7 @@ React · Next.js · TypeScript · Node.js
 - [kvideo.pro](https://kvideo.pro/) - сайт продюссера
 - [smp3d.ru](https://smp3d.ru/) — сайт мастерской 3D-печати 
 - [4ad-royalty](https://4ad-royalty.vercel.app/) — лендинг
-- [quiz-builder](https://github.com/MAChapurin/quiz-builder) — конструктор квизов 
+- [quiz-builder](https://quiz-builder-mu-two.vercel.app/) — конструктор квизов 
 - [sarafanfan.com](https://sarafanfan.com/) - конмандный проект маркетплэйса
 - [shope](https://github.com/MAChapurin/shope) — тренировочный интернет-магазин  
 - [preax-weather-app](https://github.com/MAChapurin/preax-weather-app) — приложение прогноза погоды
